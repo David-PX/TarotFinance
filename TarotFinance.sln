@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34902.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TarotFinance.Server", "TarotFinance.Server\TarotFinance.Server.csproj", "{5A58952D-AFDB-4945-8357-714E43D5E16C}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "tarotfinance.client", "tarotfinance.client\tarotfinance.client.esproj", "{AB28C505-E719-4617-99C4-0272CB93F276}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A58952D-AFDB-4945-8357-714E43D5E16C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A58952D-AFDB-4945-8357-714E43D5E16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A58952D-AFDB-4945-8357-714E43D5E16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A58952D-AFDB-4945-8357-714E43D5E16C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB28C505-E719-4617-99C4-0272CB93F276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB28C505-E719-4617-99C4-0272CB93F276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB28C505-E719-4617-99C4-0272CB93F276}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AB28C505-E719-4617-99C4-0272CB93F276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB28C505-E719-4617-99C4-0272CB93F276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB28C505-E719-4617-99C4-0272CB93F276}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02F9AB9A-5E57-46DC-9992-4F0E3F5CEEEE}
+	EndGlobalSection
+EndGlobal

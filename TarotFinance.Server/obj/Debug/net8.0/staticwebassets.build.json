@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "bnkWD5k8UnhPVEGWN4vO4+Ql/8MKn+mOtw8rcaTdEI8=",
+  "Source": "TarotFinance.Server",
+  "BasePath": "_content/TarotFinance.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\David\\source\\repos\\TarotFinance\\tarotfinance.client\\tarotfinance.client.esproj",
+      "Version": 2,
+      "Source": "tarotfinance.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
