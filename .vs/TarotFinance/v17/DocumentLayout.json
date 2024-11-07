@@ -3,8 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\David\\source\\repos\\TarotFinance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A58952D-AFDB-4945-8357-714E43D5E16C}|TarotFinance.Server\\TarotFinance.Server.csproj|c:\\users\\david\\source\\repos\\tarotfinance\\tarotfinance.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A58952D-AFDB-4945-8357-714E43D5E16C}|TarotFinance.Server\\TarotFinance.Server.csproj|solutionrelative:tarotfinance.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A58952D-AFDB-4945-8357-714E43D5E16C}|TarotFinance.Server\\TarotFinance.Server.csproj|c:\\users\\david\\source\\repos\\tarotfinance\\tarotfinance.server\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A58952D-AFDB-4945-8357-714E43D5E16C}|TarotFinance.Server\\TarotFinance.Server.csproj|solutionrelative:tarotfinance.server\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A58952D-AFDB-4945-8357-714E43D5E16C}|TarotFinance.Server\\TarotFinance.Server.csproj|c:\\users\\david\\source\\repos\\tarotfinance\\tarotfinance.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A58952D-AFDB-4945-8357-714E43D5E16C}|TarotFinance.Server\\TarotFinance.Server.csproj|solutionrelative:tarotfinance.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A58952D-AFDB-4945-8357-714E43D5E16C}|TarotFinance.Server\\TarotFinance.Server.csproj|c:\\users\\david\\source\\repos\\tarotfinance\\tarotfinance.server\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A58952D-AFDB-4945-8357-714E43D5E16C}|TarotFinance.Server\\TarotFinance.Server.csproj|solutionrelative:tarotfinance.server\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A58952D-AFDB-4945-8357-714E43D5E16C}|TarotFinance.Server\\TarotFinance.Server.csproj|c:\\users\\david\\source\\repos\\tarotfinance\\tarotfinance.server\\models\\inventorybalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A58952D-AFDB-4945-8357-714E43D5E16C}|TarotFinance.Server\\TarotFinance.Server.csproj|solutionrelative:tarotfinance.server\\models\\inventorybalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A58952D-AFDB-4945-8357-714E43D5E16C}|TarotFinance.Server\\TarotFinance.Server.csproj|c:\\users\\david\\source\\repos\\tarotfinance\\tarotfinance.server\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A58952D-AFDB-4945-8357-714E43D5E16C}|TarotFinance.Server\\TarotFinance.Server.csproj|solutionrelative:tarotfinance.server\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A58952D-AFDB-4945-8357-714E43D5E16C}|TarotFinance.Server\\TarotFinance.Server.csproj|c:\\users\\david\\source\\repos\\tarotfinance\\tarotfinance.server\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A58952D-AFDB-4945-8357-714E43D5E16C}|TarotFinance.Server\\TarotFinance.Server.csproj|solutionrelative:tarotfinance.server\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A58952D-AFDB-4945-8357-714E43D5E16C}|TarotFinance.Server\\TarotFinance.Server.csproj|c:\\users\\david\\source\\repos\\tarotfinance\\tarotfinance.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A58952D-AFDB-4945-8357-714E43D5E16C}|TarotFinance.Server\\TarotFinance.Server.csproj|solutionrelative:tarotfinance.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A58952D-AFDB-4945-8357-714E43D5E16C}|TarotFinance.Server\\TarotFinance.Server.csproj|c:\\users\\david\\source\\repos\\tarotfinance\\tarotfinance.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A58952D-AFDB-4945-8357-714E43D5E16C}|TarotFinance.Server\\TarotFinance.Server.csproj|solutionrelative:tarotfinance.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\David\\source\\repos\\TarotFinance\\TarotFinance.Server\\Migrations\\20241107021240_InitDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TarotFinance.Server\\Migrations\\20241107021240_InitDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A58952D-AFDB-4945-8357-714E43D5E16C}|TarotFinance.Server\\TarotFinance.Server.csproj|c:\\users\\david\\source\\repos\\tarotfinance\\tarotfinance.server\\tarotfinance.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5A58952D-AFDB-4945-8357-714E43D5E16C}|TarotFinance.Server\\TarotFinance.Server.csproj|solutionrelative:tarotfinance.server\\tarotfinance.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB28C505-E719-4617-99C4-0272CB93F276}|tarotfinance.client\\tarotfinance.client.esproj|c:\\users\\david\\source\\repos\\tarotfinance\\tarotfinance.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AB28C505-E719-4617-99C4-0272CB93F276}|tarotfinance.client\\tarotfinance.client.esproj|solutionrelative:tarotfinance.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,15 +70,145 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\TarotFinance\\TarotFinance.Server\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "TarotFinance.Server\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\David\\source\\repos\\TarotFinance\\TarotFinance.Server\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "TarotFinance.Server\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAxAAAA",
+              "DocumentIndex": 3,
+              "Title": "InventoryBalance.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\TarotFinance\\TarotFinance.Server\\Models\\InventoryBalance.cs",
+              "RelativeDocumentMoniker": "TarotFinance.Server\\Models\\InventoryBalance.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\TarotFinance\\TarotFinance.Server\\Models\\InventoryBalance.cs",
+              "RelativeToolTip": "TarotFinance.Server\\Models\\InventoryBalance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T06:03:51.676Z",
+              "WhenOpened": "2024-11-07T02:39:58.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\TarotFinance\\TarotFinance.Server\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "TarotFinance.Server\\Models\\Inventory.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\TarotFinance\\TarotFinance.Server\\Models\\Inventory.cs",
+              "RelativeToolTip": "TarotFinance.Server\\Models\\Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T02:39:36.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\TarotFinance\\TarotFinance.Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TarotFinance.Server\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\TarotFinance\\TarotFinance.Server\\appsettings.Development.json",
+              "RelativeToolTip": "TarotFinance.Server\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T01:10:06.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241107021240_InitDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\TarotFinance\\TarotFinance.Server\\Migrations\\20241107021240_InitDatabase.cs",
+              "RelativeDocumentMoniker": "TarotFinance.Server\\Migrations\\20241107021240_InitDatabase.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\TarotFinance\\TarotFinance.Server\\Migrations\\20241107021240_InitDatabase.cs",
+              "RelativeToolTip": "TarotFinance.Server\\Migrations\\20241107021240_InitDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T02:12:40.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\TarotFinance\\TarotFinance.Server\\Program.cs",
+              "RelativeDocumentMoniker": "TarotFinance.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\TarotFinance\\TarotFinance.Server\\Program.cs",
+              "RelativeToolTip": "TarotFinance.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:57:45.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\TarotFinance\\TarotFinance.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "TarotFinance.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\TarotFinance\\TarotFinance.Server\\appsettings.json",
+              "RelativeToolTip": "TarotFinance.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T06:13:49.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\TarotFinance\\TarotFinance.Server\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TarotFinance.Server\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\TarotFinance\\TarotFinance.Server\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TarotFinance.Server\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:31:11.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\TarotFinance\\TarotFinance.Server\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "TarotFinance.Server\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\TarotFinance\\TarotFinance.Server\\Models\\Product.cs",
+              "RelativeToolTip": "TarotFinance.Server\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:32:34.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\TarotFinance\\TarotFinance.Server\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "TarotFinance.Server\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\TarotFinance\\TarotFinance.Server\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "TarotFinance.Server\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:13:41.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TarotFinance.Server.http",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\TarotFinance\\TarotFinance.Server\\TarotFinance.Server.http",
+              "RelativeDocumentMoniker": "TarotFinance.Server\\TarotFinance.Server.http",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\TarotFinance\\TarotFinance.Server\\TarotFinance.Server.http",
+              "RelativeToolTip": "TarotFinance.Server\\TarotFinance.Server.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-31T06:13:52.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\TarotFinance\\tarotfinance.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "tarotfinance.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\TarotFinance\\tarotfinance.client\\src\\App.jsx",
+              "RelativeToolTip": "tarotfinance.client\\src\\App.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-31T06:14:28.044Z",
               "EditorCaption": ""
             }
           ]
